@@ -103,10 +103,10 @@ function getIncreption(steps) {
 
         console.log(newNumber);
         for (let i = 0; i < newNumber.length; i++) {
-            encryptString+=(myalpha[newNumber[i]]);
+            encryptString += (myalpha[newNumber[i]]);
         }
         console.log(encryptString)
-        
+
     }
 }
 
@@ -115,7 +115,7 @@ function convertFunction(num) {
     if (num < 26) {
         return num;
     }
-    else{
+    else {
         let newNum = num - 26;
         return convertFunction(+newNum)
     }
@@ -171,8 +171,8 @@ function games(cricket, hocky) {
 
 
 student = {
-    name : 'abc',
-    age : 20
+    name: 'abc',
+    age: 20
 }
 
 address = {
@@ -184,57 +184,20 @@ hobbie = {
     drawing: 1,
     music: 1
 }
-Object.setPrototypeOf(address,student)
+Object.setPrototypeOf(address, student)
 
 
 // apply method
-function marks(physics,chemistry,maths,biology){
+function marks(physics, chemistry, maths, biology) {
     this.physics = physics;
     this.chemistry = chemistry;
     this.maths = maths;
     this.biology = biology;
 }
 
-marksOfStudent1 = new marks(70,78,69,81);
+marksOfStudent1 = new marks(70, 78, 69, 81);
 
-function total(physics,chemistry,maths,biology){
-    return this.physics+this.chemistry+this.maths+this.biology
+function total(physics, chemistry, maths, biology) {
+    return this.physics + this.chemistry + this.maths + this.biology
 }
-
-
-// to check string or not
-function isString(string){
-    if (typeof string === 'string'){
-        return true;
-    }
-    else return false;
-}
-
-
-// to check blank or not
-function isBlank(string){
-    if(isString(string)){
-        if(string===''){
-            return true;
-        }
-        else{
-            return false;
-        }
-    }
-    else{
-        console.error('Please enter string type')
-    }
-}
-
-// string to array
-function strinToArray(string){
-    return string.split(' ');
-}
-
-
-
-
-
-
-
 
