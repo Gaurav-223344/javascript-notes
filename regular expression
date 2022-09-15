@@ -44,3 +44,10 @@ eg : gaurav\. = > now we can match . => gaurav.
 
 ^$ : start and end of regEx
 eg : ^\d{10}$ => 10 digits only
+
+
+
+| : either or 
+eg : p|t => it matches p either t 
+eg : p|tower => it matches p either tower
+eg : (p|t)ower => becasue of paranthesis it matces power either tower 
