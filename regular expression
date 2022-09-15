@@ -1,1 +1,28 @@
+link of video : https://www.youtube.com/playlist?list=PL4cUxeGkcC9g6m_6Sld9Q4jzqdqHd2HiD
 
+
+[] : character set
+eg : [abc]d    => means 1st letter in between a,b or c and 2nd letter is d
+eg : [a-z]23   => means 1st letter in between range of a to z lower case
+eg : [a-bA-Z]  => means 1st letter in between range pf a to z lower and upper both
+eg : [0-9] => only digit as a 1st letter
+
++ : one or more qauntifiers
+eg : [aeiou]+ => we can write letter in between a,e,i,o,u for numerous times   => aaeeiaieoouio
+eg : [1-9]+ => any number except 0
+
+
+\ : escape characters
+eg : \d => [0-9] all digits
+eg : \t => tab space only
+eg : \w => [a-zA-z0-9] includeing underscore _
+eg : \s => all types of white spaces tab, space etc.
+
+{} : number of characters 
+eg : [0-5]{7} => only 7 characters between 1 to 5 
+eg : \d{3,} => at least 3 characters
+eg : \w{5,40} => minimum 5 and maximum 40 characters
+
+[^] : negate symbol in character set
+eg : [^a] => any letter except a
+eg : [^\d] => numbers are not allowed
