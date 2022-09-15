@@ -12,7 +12,7 @@ eg : [aeiou]+ => we can write letter in between a,e,i,o,u for numerous times   =
 eg : [1-9]+ => any number except 0
 
 
-\ : escape characters
+some special characters
 eg : \d => [0-9] all digits
 eg : \t => tab space only
 eg : \w => [a-zA-z0-9] includeing underscore _
@@ -31,4 +31,16 @@ eg : [^\d] => numbers are not allowed
 eg : abc?ko => in this case c is optional => abcko or abko both matches with regEx
 eg : student[\d]? => [\d] is optional so => student, student0, student1 
 
-  
+. : any  character whatsoever (except newline character)
+eg : .+ => whole string is matches except newline character like '\n'
+
+* : one or more qauntifier (like +)
+eg : [l-n]* => we can write letter in between l to n   => llmnlnmlnmlllmmm
+eg : [1-9]* => any number except 0
+
+\ : escape characters
+eg : abc\* => now we can match * => abc*
+eg : gaurav\. = > now we can match . => gaurav.
+
+^$ : start and end of regEx
+eg : ^\d{10}$ => 10 digits only
