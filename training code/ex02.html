@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>First Application</title>
+        <style>
+            .container {
+                width: 200px;
+                height: 100px;
+                border: 1px solid #666;
+                cursor: pointer;
+                background-color: #ccc;
+            }
+        </style>
+    </head>
+    <body>
+      <div id="container" class="container"></div>
+      <div id="container1" class="container"></div>
+      <script>
+        function init(val) {
+            var a = val || 10;
+
+            console.log(typeof val);
+            // if(!val){
+            //     a=10;
+            // }
+            
+            if(a){
+                console.log(a);
+            }else{
+                console.log('value not provided.');
+            }
+        }
+
+        init([200]);
+
+        function add(val1, val2){
+            if(typeof val1 != 'number'){
+                val1 = Number(val1);
+            }
+
+            if(typeof val2 != 'number'){
+                val2 = Number(val2);
+            }
+
+            if(isNaN(val1) || isNaN(val2)){
+                // console.log('Invalid numners are provided');
+                return 'Invalid numners are provided';
+            }
+
+            return val1 + val2;
+        }
+
+        var result = add('1',2);
+        console.log(result);
+
+        var printMessage = function(message) {
+            console.log(message);
+        }
+
+        printMessage('Hello');
+
+        // document.getElementById('container').addEventListener('click', function(event){
+        //     printMessage('Hello');
+        // });
+
+        function clickHandler(event){
+            console.log(event.srcElement);
+            if(event.srcElement.getAttribute('id') == 'container'){
+                event.srcElement.style.backgroundColor = '#ff0000';
+            }else{
+                event.srcElement.style.backgroundColor = '#0000ff';
+            }
+        }
+
+        document.getElementById('container').addEventListener('click', clickHandler);
+        document.getElementById('container1').addEventListener('click', clickHandler);
+
+        function sum(){
+            var args = Array.prototype.slice.call(arguments);
+
+            console.log(args);
+            var result = 0;
+            for(var i=0; i<args.length; i++){
+                result += args[i];
+            }
+
+            console.log(result);
+        }
+
+        sum(12,34,56,12);
+        sum(12,34,56,12,3,4,5,6);
+
+        function displayTo(message, messageHandler){
+            messageHandler(message);
+        }
+
+        displayTo("I will be displayed on console", function(msg){
+            console.log('direct:',msg);
+        });
+
+        displayTo("I will be displayed on console", printMessage);
+
+        displayTo('I will be displayed on Div tag', function(msg){
+            document.getElementById('container').innerHTML = msg;
+        });
+
+        function substract(val1, val2){
+            return val1-val2;
+        }
+
+        function performOperation(val1, val2, operation){
+            return operation(val1, val2);
+        }
+
+        var result = performOperation(100,300,add);
+        console.log(result);
+
+        result = performOperation(100,300,substract);
+        console.log(result);
+
+        function getGSTCalculator(taxRate){
+            return function(amount){
+                return amount * taxRate / 100; 
+            }
+        }
+
+        var service = getGSTCalculator(18);
+        var tax = service(2000);
+        console.log('Tax Rs.', tax);
+
+        var grossary = getGSTCalculator(5);
+        var tax = grossary(1000);
+        console.log('Tax Rs.', tax);
+
+
+      </script>
+    </body>
+</html>

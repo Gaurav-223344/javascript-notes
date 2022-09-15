@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Functions</title>
+    <style>
+        .container {
+            width: 200px;
+            height: 100px;
+            border: 1px solid #666;
+            cursor: pointer;
+            background-color: #ccc;
+        }
+    </style>
+</head>
+<body>
+    <div id="container" class="container"></div>
+    <script>
+        (function(val1){
+            console.log('Hello IIF', val1);
+        })('Javascript');
+
+        function Person(name,mobile,email){
+            var id=0;
+            this.name=name;
+            this.mobile=mobile;
+            this.email=email;
+            this.printId=function(){
+                console.log('Id:',id);
+                validateEmail();
+            }
+
+            function validateEmail(){
+                console.log('validating email');
+            }
+        }
+
+        Person.prototype.show = function(){
+            console.log(this.name,this.email, this.mobile);
+        }
+
+        function Employee(id,designation){
+            this.id = id;
+            this.designation = designation;
+        }
+
+        var p = new Person('Xyz',123123123,'xyz@abc.com');
+         console.log(p);
+        p.printId();
+        // p.validateEmail();
+        p.show();
+
+        let animal = {
+            animalEats: true,
+            print:function(){
+                console.log('Animal object');
+            }
+        };
+  
+        let rabbit = {
+            rabbitJumps: true,
+        };
+  
+
+    // Sets rabbit.[[Prototype]] = animal
+    // rabbit.__proto__ = animal;
+    Object.setPrototypeOf(rabbit, animal);
+    
+    console.log(rabbit.animalEats);
+    console.log(rabbit.rabbitJumps);
+    rabbit.print();
+    console.log(rabbit);
+
+    Object.setPrototypeOf(Employee, Person);
+    var e = new Employee();
+    console.log(e);
+
+
+    var values1 = {
+        firstValue:10,
+        secondValue:20,
+        add:function(){
+            return this.firstValue + this.secondValue;
+        }
+    }
+
+    var values2 = {
+        firstValue:103,
+        secondValue:202,
+    }
+
+    function calculator(){
+        return this.firstValue + this.secondValue;
+    }
+
+    var result = calculator.apply(values1);
+    console.log(result);
+
+    var result = calculator.apply(values2);
+    console.log(result);
+
+    container.addEventListener('click', function(event){
+        console.log(this);
+    });
+
+    var r = values1.add.apply(values1);
+    console.log(r);
+
+    var r = values1.add.apply(values2);
+    console.log(r);
+
+    </script>
+</body>
+</html>

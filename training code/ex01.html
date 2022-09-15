@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>First Application</title>
+        <script type="text/javascript">
+            // alert( "First Application");
+            // var name = prompt("Enter your name");
+            // alert("Hello "+name);
+            // var response =  confirm("Are you sure?");
+        //    alert(response);
+            // console.log(response);
+            // document.writeln("Hello from JavaScript");
+            
+        </script>
+    </head>
+    <body>
+        <h1>First Application</h1>
+        <div id="container">
+            <p>This is the first application in the html</p>
+            <p>This is the first application in the html</p>
+            <p>This is the first application in the html</p>
+            <p>This is the first application in the html</p>
+            <div id="child-div" style="color:blue;">
+                New child
+            </div>
+        </div>
+        <script type="text/javascript">
+            // document.writeln("How are you?");
+            var divs = document.getElementsByTagName('div');
+            // console.log(divs);
+            // console.log(divs[0].children);
+            // divs[0].children[3].innerHTML = 'Content is changed';
+
+            var childDiv = document.getElementById('child-div');
+            console.log(childDiv);
+            childDiv.innerHTML = 'Content is changed';
+            // childDiv.style.color='red';
+            childDiv.setAttribute('style', 'color:green;font-weight:bold');
+
+            var container = document.getElementById('container');
+            var cdiv = document.createElement('div');
+            cdiv.innerText = "nested child";
+            // container.appendChild(cdiv);
+            container.prepend(cdiv);
+            
+            var arr = [1, 2, 3,"asdas",[],{}];
+
+            var o = {   
+                name:'Aptlogica',
+                address:'Wadgaon',
+                departments:['Programming', 'Web design', 'Media design', 'QA', 'HR', 'Finance', 'Sales and Marketing', 'Management']
+            };
+
+
+            // console.log(o.departments[1]);
+
+            for(var i=0; i<o.departments.length; i++){
+                console.log(o.departments[i]);
+            }
+            console.log('-------------------');
+            for(var p in o){
+                console.log(p,'->',o[p]);
+            }
+
+            var keys = Object.keys(o);
+            console.log(keys);
+            var values = Object.values(o);
+            console.log(values);
+
+            var o1 = Object.create({item:'Mouse', price:500});
+            console.log(o1.item,o1.price);
+
+            var s1 = {title:'Learning Javascript',author:'Myself'};
+
+            var o2 = Object.assign({}, s1,{publish:true, publisher:'New Media'});
+            console.log(o2);
+
+            var o3 = o2;
+            // console.log(o1)
+
+        </script>
+    </body>
+</html>
