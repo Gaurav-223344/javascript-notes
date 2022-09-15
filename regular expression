@@ -26,3 +26,9 @@ eg : \w{5,40} => minimum 5 and maximum 40 characters
 [^] : negate symbol in character set
 eg : [^a] => any letter except a
 eg : [^\d] => numbers are not allowed
+
+? : zero or more quantifier (it makes preceding character optional)
+eg : abc?ko => in this case c is optional => abcko or abko both matches with regEx
+eg : student[\d]? => [\d] is optional so => student, student0, student1 
+
+  
