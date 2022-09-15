@@ -1,6 +1,6 @@
 link of video : https://www.youtube.com/playlist?list=PL4cUxeGkcC9g6m_6Sld9Q4jzqdqHd2HiD
 
-regeg encolsed with '/'
+regex encolsed with '/'
 eg: regEx = /[a-z]/
 
 flags : 
