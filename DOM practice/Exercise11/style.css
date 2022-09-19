@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.imageSpace{
+    height: 400px;
+    width: 500px;
+    border: 0.5px solid gray;
+    margin-bottom: 5px;
+}
+
+input{
+    height: 30px;
+}
