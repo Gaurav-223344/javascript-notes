@@ -24,7 +24,7 @@ document.getElementsByClassName('container')[0].addEventListener('mouseover', mo
 // function as a parameter
 function calculation(value1, value2, calc) {
     let result = calc(+value1, +value2)
-    console.log(result);
+    // console.log(result);
 }
 
 function add(val1, val2) {
@@ -74,7 +74,7 @@ function getArea(radius) {
     }
 }
 
-// function return another function
+// Functions that return a function
 function getGSTCalculator(taxRate) {
     return function (amount) {
         return amount * taxRate / 100;
@@ -83,11 +83,11 @@ function getGSTCalculator(taxRate) {
 
 var service = getGSTCalculator(18);
 var tax = service(2000);
-console.log('Tax Rs.', tax);
+// console.log('Tax Rs.', tax);
 
 var grossary = getGSTCalculator(5);
 var tax = grossary(1000);
-console.log('Tax Rs.', tax);
+// console.log('Tax Rs.', tax);
 
 function getIncreption(steps) {
     return function (string) {
@@ -138,11 +138,11 @@ function Person(name, mobile, email) {
 }
 
 Person.prototype.show = function () {
-    console.log(this.name, this.email, this.mobile);
+    // console.log(this.name, this.email, this.mobile);
 }
 
 per1 = new Person('gaur', 456745674567, 'abc@yz.com')
-console.log(per1.show())
+// console.log(per1.show())
 
 
 
