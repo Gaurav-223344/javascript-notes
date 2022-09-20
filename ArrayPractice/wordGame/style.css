@@ -1,0 +1,23 @@
+.letterContainer{
+    border: 1px solid aqua;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    background-color: aqua;
+    cursor: pointer;
+}
+
+.WordContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
