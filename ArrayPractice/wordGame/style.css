@@ -15,7 +15,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    
+    font-weight: bold;
 }
 
 .container{
@@ -53,10 +53,20 @@ input{
     font-size: 20px;
 }
 
-.resultStatement{
+.resultStatement,.myButton{
     width: 100%;
     display: flex;
     justify-content: center;
     margin-top: 50px;
     
+}
+.correctWord{
+    color: green;
+    font-weight: bold;
+}
+
+button{
+    height: 25px;
+    width: 80px;
+    margin: 5px;
 }
