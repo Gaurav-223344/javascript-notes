@@ -14,28 +14,27 @@ function extractContaint(object) {
     return `<div class='objectContainer'><div class='imageContainer'> ${imageExtractor(object)} </div><div id='fullInfo_${object['id']}' class='informationContainer'><div>${termExtractor(object)}</div> <div>${informationExtractor(object)}</div></div></div>`
 }
 
+
+
+
 // fetching Data
 
 for (let index = 0; index < data.length; index++) {
     let newDiv = extractContaint(data[index])
     $(newDiv).appendTo("#information")
-    $('#fullInfo_' + index).fadeOut()
+    // $('#fullInfo_' + index).hide()
 }
 
 
 // mouse events
 $('.objectContainer').on('mouseenter', function () {
     getImage = $(this).children().children().first()
-    getImage.animate({ height: '200px', width: '200px' },100)
-    getId = $(getImage).attr('id').split('_')[1]
-    $('#fullInfo_' + getId).fadeIn(100)
+    getImage.animate({marginTop : '-200px'},100)
 
 })
 
 $('.objectContainer').on('mouseleave',function(){
     getImage = $(this).children().children().first()
-    getImage.animate({ height: '400px', width: '400px' },100)
-    getId = $(getImage).attr('id').split('_')[1]
-    $('#fullInfo_' + getId).fadeOut(100)
+    getImage.animate({marginTop : '0px'},100)
 })
 
