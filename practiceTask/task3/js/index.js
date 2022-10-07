@@ -23,15 +23,15 @@ for (let index = 0; index < data.length; index++) {
 
 $('.objectContainer').on('mouseenter', function () {
     getImage = $(this).children().children().first()
-    getImage.animate({ height: '200px', width: '200px' })
+    getImage.animate({ height: '200px', width: '200px' },100)
     getId = $(getImage).attr('id').split('_')[1]
-    $('#fullInfo_' + getId).fadeIn()
+    $('#fullInfo_' + getId).fadeIn(100)
 
 })
 
 $('.objectContainer').on('mouseleave',function(){
     getImage = $(this).children().children().first()
-    getImage.animate({ height: '400px', width: '400px' })
+    getImage.animate({ height: '400px', width: '400px' },100)
     getId = $(getImage).attr('id').split('_')[1]
-    $('#fullInfo_' + getId).fadeOut()
+    $('#fullInfo_' + getId).fadeOut(100)
 })
