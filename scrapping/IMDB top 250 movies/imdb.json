@@ -1,0 +1,3126 @@
+[
+    {
+        "title": "The Shawshank Redemption",
+        "releaseYear": "1994",
+        "ageCertificate": "15",
+        "movieLength": "2h 22m",
+        "rating": "9.3",
+        "reviews": "2.7M",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "title": "The Godfather",
+        "releaseYear": "1972",
+        "ageCertificate": "X",
+        "movieLength": "2h 55m",
+        "rating": "9.2",
+        "reviews": "1.8M",
+        "genre": [
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "title": "The Dark Knight",
+        "releaseYear": "2008",
+        "ageCertificate": "12A",
+        "movieLength": "2h 32m",
+        "rating": "9.0",
+        "reviews": "2.6M",
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "title": "The Godfather: Part II",
+        "releaseYear": "1974",
+        "ageCertificate": "X",
+        "movieLength": "3h 22m",
+        "rating": "9.0",
+        "reviews": "1.3M",
+        "genre": [
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "title": "12 Angry Men",
+        "releaseYear": "1957",
+        "ageCertificate": "U",
+        "movieLength": "1h 36m",
+        "rating": "9.0",
+        "reviews": "783K",
+        "genre": [
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "title": "Schindler's List",
+        "releaseYear": "1993",
+        "ageCertificate": "15",
+        "movieLength": "3h 15m",
+        "rating": "9.0",
+        "reviews": "1.3M",
+        "genre": [
+            "Biography",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "releaseYear": "2003",
+        "ageCertificate": "12A",
+        "movieLength": "3h 21m",
+        "rating": "9.0",
+        "reviews": "1.8M",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ]
+    },
+    {
+        "title": "Pulp Fiction",
+        "releaseYear": "1994",
+        "ageCertificate": "18",
+        "movieLength": "2h 34m",
+        "rating": "8.9",
+        "reviews": "2M",
+        "genre": [
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "releaseYear": "2001",
+        "ageCertificate": "PG",
+        "movieLength": "2h 58m",
+        "rating": "8.8",
+        "reviews": "1.9M",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ]
+    },
+    {
+        "title": "The Good, the Bad and the Ugly",
+        "releaseYear": "1966",
+        "ageCertificate": "X",
+        "movieLength": "2h 28m",
+        "rating": "8.8",
+        "reviews": "756K",
+        "genre": [
+            "Adventure",
+            "Western"
+        ]
+    },
+    {
+        "title": "Forrest Gump",
+        "releaseYear": "1994",
+        "ageCertificate": "12",
+        "movieLength": "2h 22m",
+        "rating": "8.8",
+        "reviews": "2.1M",
+        "genre": [
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "title": "Fight Club",
+        "releaseYear": "1999",
+        "ageCertificate": "18",
+        "movieLength": "2h 19m",
+        "rating": "8.8",
+        "reviews": "2.1M",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "title": "Inception",
+        "releaseYear": "2010",
+        "ageCertificate": "12A",
+        "movieLength": "2h 28m",
+        "rating": "8.8",
+        "reviews": "2.3M",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "title": "The Lord of the Rings: The Two Towers",
+        "releaseYear": "2002",
+        "ageCertificate": "12A",
+        "movieLength": "2h 59m",
+        "rating": "8.8",
+        "reviews": "1.6M",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ]
+    },
+    {
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "releaseYear": "1980",
+        "ageCertificate": "U",
+        "movieLength": "2h 4m",
+        "rating": "8.7",
+        "reviews": "1.3M",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ]
+    },
+    {
+        "title": "The Matrix",
+        "releaseYear": "1999",
+        "ageCertificate": "15",
+        "movieLength": "2h 16m",
+        "rating": "8.7",
+        "reviews": "1.9M",
+        "genre": [
+            "Action",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "title": "Goodfellas",
+        "releaseYear": "1990",
+        "ageCertificate": "18",
+        "movieLength": "2h 25m",
+        "rating": "8.7",
+        "reviews": "1.1M",
+        "genre": [
+            "Biography",
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "title": "One Flew Over the Cuckoo's Nest",
+        "releaseYear": "1975",
+        "ageCertificate": "15",
+        "movieLength": "2h 13m",
+        "rating": "8.7",
+        "reviews": "1M",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "title": "Seven",
+        "releaseYear": "1995",
+        "ageCertificate": "18",
+        "movieLength": "2h 7m",
+        "rating": "8.6",
+        "reviews": "1.6M",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ]
+    },
+    {
+        "title": "Seven Samurai",
+        "releaseYear": "1954",
+        "ageCertificate": "A",
+        "movieLength": "3h 27m",
+        "rating": "8.6",
+        "reviews": "345K",
+        "genre": [
+            "Action",
+            "Drama"
+        ]
+    },
+    {
+        "title": "It's a Wonderful Life",
+        "releaseYear": "1946",
+        "ageCertificate": "U",
+        "movieLength": "2h 10m",
+        "rating": "8.6",
+        "reviews": "453K",
+        "genre": [
+            "Drama",
+            "Family",
+            "Fantasy"
+        ]
+    },
+    {
+        "title": "The Silence of the Lambs",
+        "releaseYear": "1991",
+        "ageCertificate": "18",
+        "movieLength": "1h 58m",
+        "rating": "8.6",
+        "reviews": "1.4M",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "title": "City of God",
+        "releaseYear": "2002",
+        "ageCertificate": "18",
+        "movieLength": "2h 10m",
+        "rating": "8.6",
+        "reviews": "752K",
+        "genre": [
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "title": "Saving Private Ryan",
+        "releaseYear": "1998",
+        "ageCertificate": "15",
+        "movieLength": "2h 49m",
+        "rating": "8.6",
+        "reviews": "1.4M",
+        "genre": [
+            "Drama",
+            "War"
+        ]
+    },
+    {
+        "title": "Life Is Beautiful",
+        "releaseYear": "1997",
+        "ageCertificate": "PG",
+        "movieLength": "1h 56m",
+        "rating": "8.6",
+        "reviews": "690K",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "title": "Interstellar",
+        "releaseYear": "2014",
+        "ageCertificate": "12A",
+        "movieLength": "2h 49m",
+        "rating": "8.6",
+        "reviews": "1.8M",
+        "genre": [
+            "Adventure",
+            "Drama",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "title": "The Green Mile",
+        "releaseYear": "1999",
+        "ageCertificate": "18",
+        "movieLength": "3h 9m",
+        "rating": "8.6",
+        "reviews": "1.3M",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Fantasy"
+        ]
+    },
+    {
+        "title": "Star Wars",
+        "releaseYear": "1977",
+        "ageCertificate": "U",
+        "movieLength": "2h 1m",
+        "rating": "8.6",
+        "reviews": "1.4M",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ]
+    },
+    {
+        "title": "Terminator 2: Judgment Day",
+        "releaseYear": "1991",
+        "ageCertificate": "15",
+        "movieLength": "2h 17m",
+        "rating": "8.6",
+        "reviews": "1.1M",
+        "genre": [
+            "Action",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "title": "Back to the Future",
+        "releaseYear": "1985",
+        "ageCertificate": "PG",
+        "movieLength": "1h 56m",
+        "rating": "8.5",
+        "reviews": "1.2M",
+        "genre": [
+            "Adventure",
+            "Comedy",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "title": "Spirited Away",
+        "releaseYear": "2001",
+        "ageCertificate": "PG",
+        "movieLength": "2h 5m",
+        "rating": "8.6",
+        "reviews": "754K",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Family"
+        ]
+    },
+    {
+        "title": "Psycho",
+        "releaseYear": "1960",
+        "ageCertificate": "15",
+        "movieLength": "1h 49m",
+        "rating": "8.5",
+        "reviews": "667K",
+        "genre": [
+            "Horror",
+            "Mystery",
+            "Thriller"
+        ]
+    },
+    {
+        "title": "The Pianist",
+        "releaseYear": "2002",
+        "ageCertificate": "15",
+        "movieLength": "2h 30m",
+        "rating": "8.5",
+        "reviews": "824K",
+        "genre": [
+            "Biography",
+            "Drama",
+            "Music"
+        ]
+    },
+    {
+        "title": "Parasite",
+        "releaseYear": "2019",
+        "ageCertificate": "15",
+        "movieLength": "2h 12m",
+        "rating": "8.5",
+        "reviews": "783K",
+        "genre": [
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "title": "Leon",
+        "releaseYear": "1994",
+        "ageCertificate": "18",
+        "movieLength": "1h 50m",
+        "rating": "8.5",
+        "reviews": "1.2M",
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "title": "The Lion King",
+        "releaseYear": "1994",
+        "ageCertificate": "U",
+        "movieLength": "1h 28m",
+        "rating": "8.5",
+        "reviews": "1M",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Drama"
+        ]
+    },
+    {
+        "title": "Gladiator",
+        "releaseYear": "2000",
+        "ageCertificate": "15",
+        "movieLength": "2h 35m",
+        "rating": "8.5",
+        "reviews": "1.5M",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ]
+    },
+    {
+        "title": "American History X",
+        "releaseYear": "1998",
+        "ageCertificate": "18",
+        "movieLength": "1h 59m",
+        "rating": "8.5",
+        "reviews": "1.1M",
+        "genre": [
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "title": "The Departed",
+        "releaseYear": "2006",
+        "ageCertificate": "18",
+        "movieLength": "2h 31m",
+        "rating": "8.5",
+        "reviews": "1.3M",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "title": "The Usual Suspects",
+        "releaseYear": "1995",
+        "ageCertificate": "18",
+        "movieLength": "1h 46m",
+        "rating": "8.5",
+        "reviews": "1.1M",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ]
+    },
+    {
+        "title": "The Prestige",
+        "releaseYear": "2006",
+        "ageCertificate": "12A",
+        "movieLength": "2h 10m",
+        "rating": "8.5",
+        "reviews": "1.3M",
+        "genre": [
+            "Drama",
+            "Mystery",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "title": "Whiplash",
+        "releaseYear": "2014",
+        "ageCertificate": "15",
+        "movieLength": "1h 46m",
+        "rating": "8.5",
+        "reviews": "845K",
+        "genre": [
+            "Drama",
+            "Music"
+        ]
+    },
+    {
+        "title": "Casablanca",
+        "releaseYear": "1942",
+        "ageCertificate": "U",
+        "movieLength": "1h 42m",
+        "rating": "8.5",
+        "reviews": "569K",
+        "genre": [
+            "Drama",
+            "Romance",
+            "War"
+        ]
+    },
+    {
+        "title": "Untouchable",
+        "releaseYear": "2011",
+        "ageCertificate": "15",
+        "movieLength": "1h 52m",
+        "rating": "8.5",
+        "reviews": "850K",
+        "genre": [
+            "Biography",
+            "Comedy",
+            "Drama"
+        ]
+    },
+    {
+        "title": "Harakiri",
+        "releaseYear": "1962",
+        "ageCertificate": "X",
+        "movieLength": "2h 13m",
+        "rating": "8.6",
+        "reviews": "57K",
+        "genre": [
+            "Action",
+            "Drama",
+            "Mystery"
+        ]
+    },
+    {
+        "title": "Grave of the Fireflies",
+        "releaseYear": "1988",
+        "ageCertificate": "12A",
+        "movieLength": "1h 29m",
+        "rating": "8.5",
+        "reviews": "275K",
+        "genre": [
+            "Animation",
+            "Drama",
+            "War"
+        ]
+    },
+    {
+        "title": "Modern Times",
+        "releaseYear": "1936",
+        "ageCertificate": "U",
+        "movieLength": "1h 27m",
+        "rating": "8.5",
+        "reviews": "242K",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "title": "Once Upon a Time in the West",
+        "releaseYear": "1968",
+        "ageCertificate": "AA",
+        "movieLength": "2h 45m",
+        "rating": "8.5",
+        "reviews": "328K",
+        "genre": [
+            "Western"
+        ]
+    },
+    {
+        "title": "Rear Window",
+        "releaseYear": "1954",
+        "ageCertificate": "A",
+        "movieLength": "1h 52m",
+        "rating": "8.5",
+        "reviews": "489K",
+        "genre": [
+            "Mystery",
+            "Thriller"
+        ]
+    },
+    {
+        "title": "City Lights",
+        "releaseYear": "1931",
+        "ageCertificate": "U",
+        "movieLength": "1h 27m",
+        "rating": "8.5",
+        "reviews": "184K",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "title": "Alien",
+        "releaseYear": "1979",
+        "ageCertificate": "X",
+        "movieLength": "1h 57m",
+        "rating": "8.5",
+        "reviews": "875K",
+        "genre": [
+            "Horror",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "title": "Cinema Paradiso",
+        "releaseYear": "1988",
+        "ageCertificate": "PG",
+        "movieLength": "2h 35m",
+        "rating": "8.5",
+        "reviews": "260K",
+        "genre": [
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "title": "Apocalypse Now",
+        "releaseYear": "1979",
+        "ageCertificate": "X",
+        "movieLength": "2h 27m",
+        "rating": "8.5",
+        "reviews": "663K",
+        "genre": [
+            "Drama",
+            "Mystery",
+            "War"
+        ]
+    },
+    {
+        "title": "Memento",
+        "releaseYear": "2000",
+        "ageCertificate": "15",
+        "movieLength": "1h 53m",
+        "rating": "8.4",
+        "reviews": "1.2M",
+        "genre": [
+            "Mystery",
+            "Thriller"
+        ]
+    },
+    {
+        "title": "Raiders of the Lost Ark",
+        "releaseYear": "1981",
+        "ageCertificate": "A",
+        "movieLength": "1h 55m",
+        "rating": "8.4",
+        "reviews": "960K",
+        "genre": [
+            "Action",
+            "Adventure"
+        ]
+    },
+    {
+        "title": "Django Unchained",
+        "releaseYear": "2012",
+        "ageCertificate": "18",
+        "movieLength": "2h 45m",
+        "rating": "8.4",
+        "reviews": "1.5M",
+        "genre": [
+            "Drama",
+            "Western"
+        ]
+    },
+    {
+        "title": "WALL·E",
+        "releaseYear": "2008",
+        "ageCertificate": "U",
+        "movieLength": "1h 38m",
+        "rating": "8.4",
+        "reviews": "1.1M",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Family"
+        ]
+    },
+    {
+        "title": "The Lives of Others",
+        "releaseYear": "2006",
+        "ageCertificate": "15",
+        "movieLength": "2h 17m",
+        "rating": "8.4",
+        "reviews": "389K",
+        "genre": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ]
+    },
+    {
+        "title": "Sunset Blvd.",
+        "releaseYear": "1950",
+        "ageCertificate": "PG",
+        "movieLength": "1h 50m",
+        "rating": "8.4",
+        "reviews": "222K",
+        "genre": [
+            "Drama",
+            "Film-Noir"
+        ]
+    },
+    {
+        "title": "Paths of Glory",
+        "releaseYear": "1957",
+        "ageCertificate": "PG",
+        "movieLength": "1h 28m",
+        "rating": "8.4",
+        "reviews": "197K",
+        "genre": [
+            "Drama",
+            "War"
+        ]
+    },
+    {
+        "title": "The Shining",
+        "releaseYear": "1980",
+        "ageCertificate": "15",
+        "movieLength": "2h 26m",
+        "rating": "8.4",
+        "reviews": "1M",
+        "genre": [
+            "Drama",
+            "Horror"
+        ]
+    },
+    {
+        "title": "The Great Dictator",
+        "releaseYear": "1940",
+        "ageCertificate": "U",
+        "movieLength": "2h 5m",
+        "rating": "8.4",
+        "reviews": "224K",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "War"
+        ]
+    },
+    {
+        "title": "Witness for the Prosecution",
+        "releaseYear": "1957",
+        "ageCertificate": "U",
+        "movieLength": "1h 56m",
+        "rating": "8.4",
+        "reviews": "125K",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ]
+    },
+    {
+        "title": "Avengers: Infinity War",
+        "releaseYear": "2018",
+        "ageCertificate": "12A",
+        "movieLength": "2h 29m",
+        "rating": "8.4",
+        "reviews": "1.1M",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "title": "Aliens",
+        "releaseYear": "1986",
+        "ageCertificate": "R",
+        "movieLength": "2h 17m",
+        "rating": "8.4",
+        "reviews": "713K",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "title": "American Beauty",
+        "releaseYear": "1999",
+        "ageCertificate": "18",
+        "movieLength": "2h 2m",
+        "rating": "8.4",
+        "reviews": "1.1M",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "title": "Spider-Man: Into the Spider-Verse",
+        "releaseYear": "2018",
+        "ageCertificate": "PG",
+        "movieLength": "1h 57m",
+        "rating": "8.4",
+        "reviews": "519K",
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ]
+    },
+    {
+        "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "releaseYear": "1964",
+        "ageCertificate": "A",
+        "movieLength": "1h 35m",
+        "rating": "8.4",
+        "reviews": "489K",
+        "genre": [
+            "Comedy",
+            "War"
+        ]
+    },
+    {
+        "title": "The Dark Knight Rises",
+        "releaseYear": "2012",
+        "ageCertificate": "12A",
+        "movieLength": "2h 44m",
+        "rating": "8.4",
+        "reviews": "1.7M",
+        "genre": [
+            "Action",
+            "Drama"
+        ]
+    },
+    {
+        "title": "Oldboy",
+        "releaseYear": "2003",
+        "ageCertificate": "18",
+        "movieLength": "2h",
+        "rating": "8.4",
+        "reviews": "575K",
+        "genre": [
+            "Action",
+            "Drama",
+            "Mystery"
+        ]
+    },
+    {
+        "title": "Joker",
+        "releaseYear": "2019",
+        "ageCertificate": "15",
+        "movieLength": "2h 2m",
+        "rating": "8.4",
+        "reviews": "1.3M",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "title": "Amadeus",
+        "releaseYear": "1984",
+        "ageCertificate": "PG",
+        "movieLength": "2h 40m",
+        "rating": "8.4",
+        "reviews": "400K",
+        "genre": [
+            "Biography",
+            "Drama",
+            "Music"
+        ]
+    },
+    {
+        "title": "Toy Story",
+        "releaseYear": "1995",
+        "ageCertificate": "PG",
+        "movieLength": "1h 21m",
+        "rating": "8.3",
+        "reviews": "986K",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "title": "Inglourious Basterds",
+        "releaseYear": "2009",
+        "ageCertificate": "18",
+        "movieLength": "2h 33m",
+        "rating": "8.3",
+        "reviews": "1.4M",
+        "genre": [
+            "Adventure",
+            "Drama",
+            "War"
+        ]
+    },
+    {
+        "title": "Braveheart",
+        "releaseYear": "1995",
+        "ageCertificate": "15",
+        "movieLength": "2h 58m",
+        "rating": "8.4",
+        "reviews": "1M",
+        "genre": [
+            "Biography",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "title": "Coco",
+        "releaseYear": "2017",
+        "ageCertificate": "PG",
+        "movieLength": "1h 45m",
+        "rating": "8.4",
+        "reviews": "499K",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "title": "Das Boot",
+        "releaseYear": "1981",
+        "ageCertificate": "AA",
+        "movieLength": "2h 29m",
+        "rating": "8.4",
+        "reviews": "251K",
+        "genre": [
+            "Drama",
+            "War"
+        ]
+    },
+    {
+        "title": "Top Gun: Maverick",
+        "releaseYear": "2022",
+        "ageCertificate": "12A",
+        "movieLength": "2h 10m",
+        "rating": "8.4",
+        "reviews": "402K",
+        "genre": [
+            "Action",
+            "Drama"
+        ]
+    },
+    {
+        "title": "Avengers: Endgame",
+        "releaseYear": "2019",
+        "ageCertificate": "12A",
+        "movieLength": "3h 1m",
+        "rating": "8.4",
+        "reviews": "1.1M",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ]
+    },
+    {
+        "title": "Princess Mononoke",
+        "releaseYear": "1997",
+        "ageCertificate": "PG",
+        "movieLength": "2h 14m",
+        "rating": "8.4",
+        "reviews": "392K",
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ]
+    },
+    {
+        "title": "Once Upon a Time in America",
+        "releaseYear": "1984",
+        "ageCertificate": "18",
+        "movieLength": "3h 49m",
+        "rating": "8.3",
+        "reviews": "351K",
+        "genre": [
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "title": "Good Will Hunting",
+        "releaseYear": "1997",
+        "ageCertificate": "15",
+        "movieLength": "2h 6m",
+        "rating": "8.3",
+        "reviews": "959K",
+        "genre": [
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "title": "Your Name.",
+        "releaseYear": "2016",
+        "ageCertificate": "12A",
+        "movieLength": "1h 46m",
+        "rating": "8.4",
+        "reviews": "264K",
+        "genre": [
+            "Animation",
+            "Drama",
+            "Fantasy"
+        ]
+    },
+    {
+        "title": "Requiem for a Dream",
+        "releaseYear": "2000",
+        "ageCertificate": "18",
+        "movieLength": "1h 42m",
+        "rating": "8.3",
+        "reviews": "837K",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "title": "Toy Story 3",
+        "releaseYear": "2010",
+        "ageCertificate": "U",
+        "movieLength": "1h 43m",
+        "rating": "8.3",
+        "reviews": "831K",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "title": "Singin' in the Rain",
+        "releaseYear": "1952",
+        "ageCertificate": "U",
+        "movieLength": "1h 43m",
+        "rating": "8.3",
+        "reviews": "242K",
+        "genre": [
+            "Comedy",
+            "Musical",
+            "Romance"
+        ]
+    },
+    {
+        "title": "3 Idiots",
+        "releaseYear": "2009",
+        "ageCertificate": "12A",
+        "movieLength": "2h 50m",
+        "rating": "8.4",
+        "reviews": "398K",
+        "genre": [
+            "Comedy",
+            "Drama"
+        ]
+    },
+    {
+        "title": "High and Low",
+        "releaseYear": "1963",
+        "ageCertificate": "12",
+        "movieLength": "2h 23m",
+        "rating": "8.4",
+        "reviews": "45K",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ]
+    },
+    {
+        "title": "Star Wars: Return of the Jedi",
+        "releaseYear": "1983",
+        "ageCertificate": "U",
+        "movieLength": "2h 11m",
+        "rating": "8.3",
+        "reviews": "1M",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ]
+    },
+    {
+        "title": "2001: A Space Odyssey",
+        "releaseYear": "1968",
+        "ageCertificate": "U",
+        "movieLength": "2h 29m",
+        "rating": "8.3",
+        "reviews": "665K",
+        "genre": [
+            "Adventure",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "releaseYear": "2004",
+        "ageCertificate": "15",
+        "movieLength": "1h 48m",
+        "rating": "8.3",
+        "reviews": "1M",
+        "genre": [
+            "Drama",
+            "Romance",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "title": "Reservoir Dogs",
+        "releaseYear": "1992",
+        "ageCertificate": "18",
+        "movieLength": "1h 39m",
+        "rating": "8.3",
+        "reviews": "1M",
+        "genre": [
+            "Crime",
+            "Thriller"
+        ]
+    },
+    {
+        "title": "Capernaum",
+        "releaseYear": "2018",
+        "ageCertificate": "15",
+        "movieLength": "2h 6m",
+        "rating": "8.4",
+        "reviews": "89K",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "title": "The Hunt",
+        "releaseYear": "2012",
+        "ageCertificate": "15",
+        "movieLength": "1h 55m",
+        "rating": "8.3",
+        "reviews": "328K",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "title": "Citizen Kane",
+        "releaseYear": "1941",
+        "ageCertificate": "A",
+        "movieLength": "1h 59m",
+        "rating": "8.3",
+        "reviews": "441K",
+        "genre": [
+            "Drama",
+            "Mystery"
+        ]
+    },
+    {
+        "title": "Lawrence of Arabia",
+        "releaseYear": "1962",
+        "ageCertificate": "PG",
+        "movieLength": "3h 38m",
+        "rating": "8.3",
+        "reviews": "293K",
+        "genre": [
+            "Adventure",
+            "Biography",
+            "Drama"
+        ]
+    },
+    {
+        "title": "M",
+        "releaseYear": "1931",
+        "ageCertificate": "A",
+        "movieLength": "1h 57m",
+        "rating": "8.3",
+        "reviews": "158K",
+        "genre": [
+            "Crime",
+            "Mystery",
+            "Thriller"
+        ]
+    },
+    {
+        "title": "Come and See",
+        "releaseYear": "1985",
+        "ageCertificate": "15",
+        "movieLength": "2h 22m",
+        "rating": "8.4",
+        "reviews": "79K",
+        "genre": [
+            "Drama",
+            "Thriller",
+            "War"
+        ]
+    },
+    {
+        "title": "North by Northwest",
+        "releaseYear": "1959",
+        "ageCertificate": "A",
+        "movieLength": "2h 16m",
+        "rating": "8.3",
+        "reviews": "327K",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Mystery"
+        ]
+    },
+    {
+        "title": "Vertigo",
+        "releaseYear": "1958",
+        "ageCertificate": "A",
+        "movieLength": "2h 8m",
+        "rating": "8.3",
+        "reviews": "401K",
+        "genre": [
+            "Mystery",
+            "Romance",
+            "Thriller"
+        ]
+    },
+    {
+        "title": "Amélie",
+        "releaseYear": "2001",
+        "ageCertificate": "15",
+        "movieLength": "2h 2m",
+        "rating": "8.3",
+        "reviews": "753K",
+        "genre": [
+            "Comedy",
+            "Romance"
+        ]
+    },
+    {
+        "title": "A Clockwork Orange",
+        "releaseYear": "1971",
+        "ageCertificate": "X",
+        "movieLength": "2h 16m",
+        "rating": "8.3",
+        "reviews": "825K",
+        "genre": [
+            "Crime",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "title": "The Apartment",
+        "releaseYear": "1960",
+        "ageCertificate": "A",
+        "movieLength": "2h 5m",
+        "rating": "8.3",
+        "reviews": "181K",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "title": "Double Indemnity",
+        "releaseYear": "1944",
+        "ageCertificate": "A",
+        "movieLength": "1h 47m",
+        "rating": "8.3",
+        "reviews": "157K",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Film-Noir"
+        ]
+    },
+    {
+        "title": "Full Metal Jacket",
+        "releaseYear": "1987",
+        "ageCertificate": "18",
+        "movieLength": "1h 56m",
+        "rating": "8.3",
+        "reviews": "738K",
+        "genre": [
+            "Drama",
+            "War"
+        ]
+    },
+    {
+        "title": "Ikiru",
+        "releaseYear": "1952",
+        "ageCertificate": "A",
+        "movieLength": "2h 23m",
+        "rating": "8.3",
+        "reviews": "78K",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "title": "Scarface",
+        "releaseYear": "1983",
+        "ageCertificate": "18",
+        "movieLength": "2h 50m",
+        "rating": "8.3",
+        "reviews": "833K",
+        "genre": [
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "title": "Hamilton",
+        "releaseYear": "2020",
+        "ageCertificate": "12",
+        "movieLength": "2h 40m",
+        "rating": "8.4",
+        "reviews": "93K",
+        "genre": [
+            "Biography",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "title": "The Sting",
+        "releaseYear": "1973",
+        "ageCertificate": "A",
+        "movieLength": "2h 9m",
+        "rating": "8.3",
+        "reviews": "262K",
+        "genre": [
+            "Comedy",
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "releaseYear": "1962",
+        "ageCertificate": "A",
+        "movieLength": "2h 9m",
+        "rating": "8.3",
+        "reviews": "316K",
+        "genre": [
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "title": "Heat",
+        "releaseYear": "1995",
+        "ageCertificate": "15",
+        "movieLength": "2h 50m",
+        "rating": "8.3",
+        "reviews": "651K",
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "title": "Up",
+        "releaseYear": "2009",
+        "ageCertificate": "U",
+        "movieLength": "1h 36m",
+        "rating": "8.3",
+        "reviews": "1M",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "title": "Taxi Driver",
+        "releaseYear": "1976",
+        "ageCertificate": "X",
+        "movieLength": "1h 54m",
+        "rating": "8.2",
+        "reviews": "823K",
+        "genre": [
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "title": "Incendies",
+        "releaseYear": "2010",
+        "ageCertificate": "15",
+        "movieLength": "2h 11m",
+        "rating": "8.3",
+        "reviews": "177K",
+        "genre": [
+            "Drama",
+            "Mystery"
+        ]
+    },
+    {
+        "title": "Metropolis",
+        "releaseYear": "1927",
+        "ageCertificate": "A",
+        "movieLength": "2h 33m",
+        "rating": "8.3",
+        "reviews": "174K",
+        "genre": [
+            "Drama",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "title": "A Separation",
+        "releaseYear": "2011",
+        "ageCertificate": "PG",
+        "movieLength": "2h 3m",
+        "rating": "8.3",
+        "reviews": "245K",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "title": "L.A. Confidential",
+        "releaseYear": "1997",
+        "ageCertificate": "18",
+        "movieLength": "2h 18m",
+        "rating": "8.2",
+        "reviews": "581K",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ]
+    },
+    {
+        "title": "Snatch",
+        "releaseYear": "2000",
+        "ageCertificate": "18",
+        "movieLength": "1h 44m",
+        "rating": "8.2",
+        "reviews": "851K",
+        "genre": [
+            "Comedy",
+            "Crime"
+        ]
+    },
+    {
+        "title": "Bicycle Thieves",
+        "releaseYear": "1948",
+        "ageCertificate": "U",
+        "movieLength": "1h 29m",
+        "rating": "8.3",
+        "reviews": "163K",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "title": "Die Hard",
+        "releaseYear": "1988",
+        "ageCertificate": "18",
+        "movieLength": "2h 12m",
+        "rating": "8.2",
+        "reviews": "871K",
+        "genre": [
+            "Action",
+            "Thriller"
+        ]
+    },
+    {
+        "title": "Indiana Jones and the Last Crusade",
+        "releaseYear": "1989",
+        "ageCertificate": "PG",
+        "movieLength": "2h 7m",
+        "rating": "8.2",
+        "reviews": "751K",
+        "genre": [
+            "Action",
+            "Adventure"
+        ]
+    },
+    {
+        "title": "1917",
+        "releaseYear": "2019",
+        "ageCertificate": "15",
+        "movieLength": "1h 59m",
+        "rating": "8.2",
+        "reviews": "578K",
+        "genre": [
+            "Action",
+            "Drama",
+            "War"
+        ]
+    },
+    {
+        "title": "Like Stars on Earth",
+        "releaseYear": "2007",
+        "ageCertificate": "PG",
+        "movieLength": "2h 45m",
+        "rating": "8.4",
+        "reviews": "193K",
+        "genre": [
+            "Drama",
+            "Family"
+        ]
+    },
+    {
+        "title": "Downfall",
+        "releaseYear": "2004",
+        "ageCertificate": "15",
+        "movieLength": "2h 36m",
+        "rating": "8.2",
+        "reviews": "355K",
+        "genre": [
+            "Biography",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "title": "For a Few Dollars More",
+        "releaseYear": "1965",
+        "ageCertificate": "X",
+        "movieLength": "2h 12m",
+        "rating": "8.2",
+        "reviews": "256K",
+        "genre": [
+            "Western"
+        ]
+    },
+    {
+        "title": "Batman Begins",
+        "releaseYear": "2005",
+        "ageCertificate": "12A",
+        "movieLength": "2h 20m",
+        "rating": "8.2",
+        "reviews": "1.5M",
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "title": "Dangal",
+        "releaseYear": "2016",
+        "ageCertificate": "PG",
+        "movieLength": "2h 41m",
+        "rating": "8.3",
+        "reviews": "190K",
+        "genre": [
+            "Action",
+            "Biography",
+            "Drama"
+        ]
+    },
+    {
+        "title": "The Kid",
+        "releaseYear": "1921",
+        "ageCertificate": "U",
+        "movieLength": "1h 8m",
+        "rating": "8.3",
+        "reviews": "126K",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Family"
+        ]
+    },
+    {
+        "title": "Some Like It Hot",
+        "releaseYear": "1959",
+        "ageCertificate": "A",
+        "movieLength": "2h 1m",
+        "rating": "8.2",
+        "reviews": "267K",
+        "genre": [
+            "Comedy",
+            "Music",
+            "Romance"
+        ]
+    },
+    {
+        "title": "All About Eve",
+        "releaseYear": "1950",
+        "ageCertificate": "A",
+        "movieLength": "2h 18m",
+        "rating": "8.2",
+        "reviews": "132K",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "title": "The Father",
+        "releaseYear": "2020",
+        "ageCertificate": "12A",
+        "movieLength": "1h 37m",
+        "rating": "8.2",
+        "reviews": "150K",
+        "genre": [
+            "Drama",
+            "Mystery"
+        ]
+    },
+    {
+        "title": "Green Book",
+        "releaseYear": "2018",
+        "ageCertificate": "12A",
+        "movieLength": "2h 10m",
+        "rating": "8.2",
+        "reviews": "484K",
+        "genre": [
+            "Biography",
+            "Comedy",
+            "Drama"
+        ]
+    },
+    {
+        "title": "The Wolf of Wall Street",
+        "releaseYear": "2013",
+        "ageCertificate": "18",
+        "movieLength": "3h",
+        "rating": "8.2",
+        "reviews": "1.4M",
+        "genre": [
+            "Biography",
+            "Comedy",
+            "Crime"
+        ]
+    },
+    {
+        "title": "Judgment at Nuremberg",
+        "releaseYear": "1961",
+        "ageCertificate": "A",
+        "movieLength": "2h 59m",
+        "rating": "8.3",
+        "reviews": "78K",
+        "genre": [
+            "Drama",
+            "War"
+        ]
+    },
+    {
+        "title": "Ran",
+        "releaseYear": "1985",
+        "ageCertificate": "15",
+        "movieLength": "2h 42m",
+        "rating": "8.2",
+        "reviews": "126K",
+        "genre": [
+            "Action",
+            "Drama",
+            "War"
+        ]
+    },
+    {
+        "title": "Casino",
+        "releaseYear": "1995",
+        "ageCertificate": "18",
+        "movieLength": "2h 58m",
+        "rating": "8.2",
+        "reviews": "517K",
+        "genre": [
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "title": "Pan's Labyrinth",
+        "releaseYear": "2006",
+        "ageCertificate": "15",
+        "movieLength": "1h 58m",
+        "rating": "8.2",
+        "reviews": "666K",
+        "genre": [
+            "Drama",
+            "Fantasy",
+            "War"
+        ]
+    },
+    {
+        "title": "Unforgiven",
+        "releaseYear": "1992",
+        "ageCertificate": "15",
+        "movieLength": "2h 10m",
+        "rating": "8.2",
+        "reviews": "411K",
+        "genre": [
+            "Drama",
+            "Western"
+        ]
+    },
+    {
+        "title": "There Will Be Blood",
+        "releaseYear": "2007",
+        "ageCertificate": "12A",
+        "movieLength": "2h 38m",
+        "rating": "8.2",
+        "reviews": "583K",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "title": "Spider-Man: No Way Home",
+        "releaseYear": "2021",
+        "ageCertificate": "12A",
+        "movieLength": "2h 28m",
+        "rating": "8.3",
+        "reviews": "735K",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ]
+    },
+    {
+        "title": "The Truman Show",
+        "releaseYear": "1998",
+        "ageCertificate": "PG",
+        "movieLength": "1h 43m",
+        "rating": "8.2",
+        "reviews": "1.1M",
+        "genre": [
+            "Comedy",
+            "Drama"
+        ]
+    },
+    {
+        "title": "The Sixth Sense",
+        "releaseYear": "1999",
+        "ageCertificate": "15",
+        "movieLength": "1h 47m",
+        "rating": "8.2",
+        "reviews": "986K",
+        "genre": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ]
+    },
+    {
+        "title": "A Beautiful Mind",
+        "releaseYear": "2001",
+        "ageCertificate": "12",
+        "movieLength": "2h 15m",
+        "rating": "8.2",
+        "reviews": "927K",
+        "genre": [
+            "Biography",
+            "Drama"
+        ]
+    },
+    {
+        "title": "Yojimbo",
+        "releaseYear": "1961",
+        "ageCertificate": "A",
+        "movieLength": "1h 50m",
+        "rating": "8.2",
+        "reviews": "123K",
+        "genre": [
+            "Action",
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "title": "Monty Python and the Holy Grail",
+        "releaseYear": "1975",
+        "ageCertificate": "15",
+        "movieLength": "1h 31m",
+        "rating": "8.2",
+        "reviews": "540K",
+        "genre": [
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+        ]
+    },
+    {
+        "title": "The Treasure of the Sierra Madre",
+        "releaseYear": "1948",
+        "ageCertificate": "A",
+        "movieLength": "2h 6m",
+        "rating": "8.2",
+        "reviews": "125K",
+        "genre": [
+            "Adventure",
+            "Drama",
+            "Western"
+        ]
+    },
+    {
+        "title": "Shutter Island",
+        "releaseYear": "2010",
+        "ageCertificate": "15",
+        "movieLength": "2h 18m",
+        "rating": "8.2",
+        "reviews": "1.3M",
+        "genre": [
+            "Mystery",
+            "Thriller"
+        ]
+    },
+    {
+        "title": "Jurassic Park",
+        "releaseYear": "1993",
+        "ageCertificate": "PG",
+        "movieLength": "2h 7m",
+        "rating": "8.2",
+        "reviews": "981K",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "title": "Rashomon",
+        "releaseYear": "1950",
+        "ageCertificate": "X",
+        "movieLength": "1h 28m",
+        "rating": "8.2",
+        "reviews": "168K",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ]
+    },
+    {
+        "title": "The Great Escape",
+        "releaseYear": "1963",
+        "ageCertificate": "PG",
+        "movieLength": "2h 52m",
+        "rating": "8.2",
+        "reviews": "244K",
+        "genre": [
+            "Adventure",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "title": "Kill Bill: Vol. 1",
+        "releaseYear": "2003",
+        "ageCertificate": "18",
+        "movieLength": "1h 51m",
+        "rating": "8.2",
+        "reviews": "1.1M",
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "title": "No Country for Old Men",
+        "releaseYear": "2007",
+        "ageCertificate": "15",
+        "movieLength": "2h 2m",
+        "rating": "8.2",
+        "reviews": "964K",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "title": "Finding Nemo",
+        "releaseYear": "2003",
+        "ageCertificate": "U",
+        "movieLength": "1h 40m",
+        "rating": "8.2",
+        "reviews": "1M",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "title": "The Elephant Man",
+        "releaseYear": "1980",
+        "ageCertificate": "AA",
+        "movieLength": "2h 4m",
+        "rating": "8.2",
+        "reviews": "241K",
+        "genre": [
+            "Biography",
+            "Drama"
+        ]
+    },
+    {
+        "title": "Chinatown",
+        "releaseYear": "1974",
+        "ageCertificate": "X",
+        "movieLength": "2h 10m",
+        "rating": "8.2",
+        "reviews": "326K",
+        "genre": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ]
+    },
+    {
+        "title": "The Thing",
+        "releaseYear": "1982",
+        "ageCertificate": "X",
+        "movieLength": "1h 49m",
+        "rating": "8.2",
+        "reviews": "421K",
+        "genre": [
+            "Horror",
+            "Mystery",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "title": "Raging Bull",
+        "releaseYear": "1980",
+        "ageCertificate": "X",
+        "movieLength": "2h 9m",
+        "rating": "8.2",
+        "reviews": "353K",
+        "genre": [
+            "Biography",
+            "Drama",
+            "Sport"
+        ]
+    },
+    {
+        "title": "Gone with the Wind",
+        "releaseYear": "1939",
+        "ageCertificate": "PG",
+        "movieLength": "3h 58m",
+        "rating": "8.2",
+        "reviews": "315K",
+        "genre": [
+            "Drama",
+            "Romance",
+            "War"
+        ]
+    },
+    {
+        "title": "V for Vendetta",
+        "releaseYear": "2005",
+        "ageCertificate": "15",
+        "movieLength": "2h 12m",
+        "rating": "8.2",
+        "reviews": "1.1M",
+        "genre": [
+            "Action",
+            "Drama",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "title": "Inside Out",
+        "releaseYear": "2015",
+        "ageCertificate": "U",
+        "movieLength": "1h 35m",
+        "rating": "8.2",
+        "reviews": "707K",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "title": "Lock, Stock and Two Smoking Barrels",
+        "releaseYear": "1998",
+        "ageCertificate": "18",
+        "movieLength": "1h 47m",
+        "rating": "8.2",
+        "reviews": "580K",
+        "genre": [
+            "Action",
+            "Comedy",
+            "Crime"
+        ]
+    },
+    {
+        "title": "Dial M for Murder",
+        "releaseYear": "1954",
+        "ageCertificate": "PG",
+        "movieLength": "1h 45m",
+        "rating": "8.2",
+        "reviews": "176K",
+        "genre": [
+            "Crime",
+            "Thriller"
+        ]
+    },
+    {
+        "title": "The Secret in Their Eyes",
+        "releaseYear": "2009",
+        "ageCertificate": "18",
+        "movieLength": "2h 9m",
+        "rating": "8.2",
+        "reviews": "209K",
+        "genre": [
+            "Drama",
+            "Mystery",
+            "Romance"
+        ]
+    },
+    {
+        "title": "Howl's Moving Castle",
+        "releaseYear": "2004",
+        "ageCertificate": "U",
+        "movieLength": "1h 59m",
+        "rating": "8.2",
+        "reviews": "392K",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Family"
+        ]
+    },
+    {
+        "title": "The Bridge on the River Kwai",
+        "releaseYear": "1957",
+        "ageCertificate": "U",
+        "movieLength": "2h 41m",
+        "rating": "8.2",
+        "reviews": "221K",
+        "genre": [
+            "Adventure",
+            "Drama",
+            "War"
+        ]
+    },
+    {
+        "title": "Three Billboards Outside Ebbing, Missouri",
+        "releaseYear": "2017",
+        "ageCertificate": "15",
+        "movieLength": "1h 55m",
+        "rating": "8.1",
+        "reviews": "502K",
+        "genre": [
+            "Comedy",
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "title": "Trainspotting",
+        "releaseYear": "1996",
+        "ageCertificate": "18",
+        "movieLength": "1h 33m",
+        "rating": "8.1",
+        "reviews": "684K",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "title": "Warrior",
+        "releaseYear": "2011",
+        "ageCertificate": "12A",
+        "movieLength": "2h 20m",
+        "rating": "8.2",
+        "reviews": "471K",
+        "genre": [
+            "Action",
+            "Drama",
+            "Sport"
+        ]
+    },
+    {
+        "title": "Gran Torino",
+        "releaseYear": "2008",
+        "ageCertificate": "15",
+        "movieLength": "1h 56m",
+        "rating": "8.1",
+        "reviews": "773K",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "title": "Fargo",
+        "releaseYear": "1996",
+        "ageCertificate": "18",
+        "movieLength": "1h 38m",
+        "rating": "8.1",
+        "reviews": "675K",
+        "genre": [
+            "Crime",
+            "Thriller"
+        ]
+    },
+    {
+        "title": "Prisoners",
+        "releaseYear": "2013",
+        "ageCertificate": "15",
+        "movieLength": "2h 33m",
+        "rating": "8.1",
+        "reviews": "703K",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ]
+    },
+    {
+        "title": "My Neighbour Totoro",
+        "releaseYear": "1988",
+        "ageCertificate": "U",
+        "movieLength": "1h 26m",
+        "rating": "8.1",
+        "reviews": "337K",
+        "genre": [
+            "Animation",
+            "Comedy",
+            "Family"
+        ]
+    },
+    {
+        "title": "Million Dollar Baby",
+        "releaseYear": "2004",
+        "ageCertificate": "12A",
+        "movieLength": "2h 12m",
+        "rating": "8.1",
+        "reviews": "685K",
+        "genre": [
+            "Drama",
+            "Sport"
+        ]
+    },
+    {
+        "title": "Catch Me If You Can",
+        "releaseYear": "2002",
+        "ageCertificate": "12A",
+        "movieLength": "2h 21m",
+        "rating": "8.1",
+        "reviews": "970K",
+        "genre": [
+            "Biography",
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "title": "The Gold Rush",
+        "releaseYear": "1925",
+        "ageCertificate": "U",
+        "movieLength": "1h 35m",
+        "rating": "8.2",
+        "reviews": "111K",
+        "genre": [
+            "Adventure",
+            "Comedy",
+            "Drama"
+        ]
+    },
+    {
+        "title": "Children of Heaven",
+        "releaseYear": "1997",
+        "ageCertificate": "PG",
+        "movieLength": "1h 29m",
+        "rating": "8.2",
+        "reviews": "75K",
+        "genre": [
+            "Drama",
+            "Family",
+            "Sport"
+        ]
+    },
+    {
+        "title": "Blade Runner",
+        "releaseYear": "1982",
+        "ageCertificate": "AA",
+        "movieLength": "1h 57m",
+        "rating": "8.1",
+        "reviews": "765K",
+        "genre": [
+            "Action",
+            "Drama",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "title": "On the Waterfront",
+        "releaseYear": "1954",
+        "ageCertificate": "A",
+        "movieLength": "1h 48m",
+        "rating": "8.1",
+        "reviews": "155K",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "title": "The Third Man",
+        "releaseYear": "1949",
+        "ageCertificate": "A",
+        "movieLength": "1h 44m",
+        "rating": "8.1",
+        "reviews": "172K",
+        "genre": [
+            "Film-Noir",
+            "Mystery",
+            "Thriller"
+        ]
+    },
+    {
+        "title": "12 Years a Slave",
+        "releaseYear": "2013",
+        "ageCertificate": "15",
+        "movieLength": "2h 14m",
+        "rating": "8.1",
+        "reviews": "698K",
+        "genre": [
+            "Biography",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "title": "Before Sunrise",
+        "releaseYear": "1995",
+        "ageCertificate": "15",
+        "movieLength": "1h 41m",
+        "rating": "8.1",
+        "reviews": "307K",
+        "genre": [
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "title": "Wild Strawberries",
+        "releaseYear": "1957",
+        "ageCertificate": "A",
+        "movieLength": "1h 31m",
+        "rating": "8.1",
+        "reviews": "107K",
+        "genre": [
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "title": "Harry Potter and the Deathly Hallows: Part 2",
+        "releaseYear": "2011",
+        "ageCertificate": "12A",
+        "movieLength": "2h 10m",
+        "rating": "8.1",
+        "reviews": "868K",
+        "genre": [
+            "Adventure",
+            "Family",
+            "Fantasy"
+        ]
+    },
+    {
+        "title": "Ben-Hur",
+        "releaseYear": "1959",
+        "ageCertificate": "A",
+        "movieLength": "3h 32m",
+        "rating": "8.1",
+        "reviews": "239K",
+        "genre": [
+            "Adventure",
+            "Drama"
+        ]
+    },
+    {
+        "title": "Gone Girl",
+        "releaseYear": "2014",
+        "ageCertificate": "18",
+        "movieLength": "2h 29m",
+        "rating": "8.1",
+        "reviews": "974K",
+        "genre": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ]
+    },
+    {
+        "title": "The General",
+        "releaseYear": "1926",
+        "ageCertificate": "U",
+        "movieLength": "1h 7m",
+        "rating": "8.2",
+        "reviews": "92K",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "title": "The Deer Hunter",
+        "releaseYear": "1978",
+        "ageCertificate": "X",
+        "movieLength": "3h 3m",
+        "rating": "8.1",
+        "reviews": "339K",
+        "genre": [
+            "Drama",
+            "War"
+        ]
+    },
+    {
+        "title": "The Grand Budapest Hotel",
+        "releaseYear": "2014",
+        "ageCertificate": "15",
+        "movieLength": "1h 39m",
+        "rating": "8.1",
+        "reviews": "801K",
+        "genre": [
+            "Adventure",
+            "Comedy",
+            "Crime"
+        ]
+    },
+    {
+        "title": "In the Name of the Father",
+        "releaseYear": "1993",
+        "ageCertificate": "15",
+        "movieLength": "2h 13m",
+        "rating": "8.1",
+        "reviews": "175K",
+        "genre": [
+            "Biography",
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "title": "Barry Lyndon",
+        "releaseYear": "1975",
+        "ageCertificate": "A",
+        "movieLength": "3h 5m",
+        "rating": "8.1",
+        "reviews": "168K",
+        "genre": [
+            "Adventure",
+            "Drama",
+            "War"
+        ]
+    },
+    {
+        "title": "The Wages of Fear",
+        "releaseYear": "1953",
+        "ageCertificate": "A",
+        "movieLength": "2h 11m",
+        "rating": "8.2",
+        "reviews": "61K",
+        "genre": [
+            "Adventure",
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "title": "Sherlock Jr.",
+        "releaseYear": "1924",
+        "ageCertificate": "U",
+        "movieLength": "45m",
+        "rating": "8.2",
+        "reviews": "50K",
+        "genre": [
+            "Action",
+            "Comedy",
+            "Romance"
+        ]
+    },
+    {
+        "title": "Mr. Smith Goes to Washington",
+        "releaseYear": "1939",
+        "ageCertificate": "U",
+        "movieLength": "2h 9m",
+        "rating": "8.1",
+        "reviews": "116K",
+        "genre": [
+            "Comedy",
+            "Drama"
+        ]
+    },
+    {
+        "title": "Memories of Murder",
+        "releaseYear": "2003",
+        "ageCertificate": "15",
+        "movieLength": "2h 11m",
+        "rating": "8.1",
+        "reviews": "182K",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ]
+    },
+    {
+        "title": "Hacksaw Ridge",
+        "releaseYear": "2016",
+        "ageCertificate": "15",
+        "movieLength": "2h 19m",
+        "rating": "8.1",
+        "reviews": "520K",
+        "genre": [
+            "Biography",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "title": "Klaus",
+        "releaseYear": "2019",
+        "ageCertificate": "PG",
+        "movieLength": "1h 36m",
+        "rating": "8.1",
+        "reviews": "148K",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "title": "Wild Tales",
+        "releaseYear": "2014",
+        "ageCertificate": "15",
+        "movieLength": "2h 2m",
+        "rating": "8.1",
+        "reviews": "198K",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "title": "The Seventh Seal",
+        "releaseYear": "1957",
+        "ageCertificate": "X",
+        "movieLength": "1h 36m",
+        "rating": "8.1",
+        "reviews": "185K",
+        "genre": [
+            "Drama",
+            "Fantasy"
+        ]
+    },
+    {
+        "title": "Room",
+        "releaseYear": "2015",
+        "ageCertificate": "15",
+        "movieLength": "1h 58m",
+        "rating": "8.1",
+        "reviews": "419K",
+        "genre": [
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "title": "Mad Max: Fury Road",
+        "releaseYear": "2015",
+        "ageCertificate": "15",
+        "movieLength": "2h",
+        "rating": "8.1",
+        "reviews": "993K",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "title": "Mary and Max",
+        "releaseYear": "2009",
+        "ageCertificate": "12A",
+        "movieLength": "1h 32m",
+        "rating": "8.1",
+        "reviews": "177K",
+        "genre": [
+            "Animation",
+            "Comedy",
+            "Drama"
+        ]
+    },
+    {
+        "title": "How to Train Your Dragon",
+        "releaseYear": "2010",
+        "ageCertificate": "PG",
+        "movieLength": "1h 38m",
+        "rating": "8.1",
+        "reviews": "735K",
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ]
+    },
+    {
+        "title": "The Big Lebowski",
+        "releaseYear": "1998",
+        "ageCertificate": "18",
+        "movieLength": "1h 57m",
+        "rating": "8.1",
+        "reviews": "804K",
+        "genre": [
+            "Comedy",
+            "Crime"
+        ]
+    },
+    {
+        "title": "Monsters, Inc.",
+        "releaseYear": "2001",
+        "ageCertificate": "U",
+        "movieLength": "1h 32m",
+        "rating": "8.1",
+        "reviews": "903K",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "title": "Jaws",
+        "releaseYear": "1975",
+        "ageCertificate": "A",
+        "movieLength": "2h 4m",
+        "rating": "8.1",
+        "reviews": "603K",
+        "genre": [
+            "Adventure",
+            "Thriller"
+        ]
+    },
+    {
+        "title": "Tokyo Story",
+        "releaseYear": "1953",
+        "ageCertificate": "U",
+        "movieLength": "2h 16m",
+        "rating": "8.2",
+        "reviews": "62K",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "title": "The Passion of Joan of Arc",
+        "releaseYear": "1928",
+        "ageCertificate": "A",
+        "movieLength": "1h 50m",
+        "rating": "8.2",
+        "reviews": "55K",
+        "genre": [
+            "Biography",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "title": "Dead Poets Society",
+        "releaseYear": "1989",
+        "ageCertificate": "PG",
+        "movieLength": "2h 8m",
+        "rating": "8.1",
+        "reviews": "487K",
+        "genre": [
+            "Comedy",
+            "Drama"
+        ]
+    },
+    {
+        "title": "Hotel Rwanda",
+        "releaseYear": "2004",
+        "ageCertificate": "12A",
+        "movieLength": "2h 1m",
+        "rating": "8.1",
+        "reviews": "355K",
+        "genre": [
+            "Biography",
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "title": "Le Mans '66",
+        "releaseYear": "2019",
+        "ageCertificate": "12A",
+        "movieLength": "2h 32m",
+        "rating": "8.1",
+        "reviews": "387K",
+        "genre": [
+            "Action",
+            "Biography",
+            "Drama"
+        ]
+    },
+    {
+        "title": "Rocky",
+        "releaseYear": "1976",
+        "ageCertificate": "12",
+        "movieLength": "2h",
+        "rating": "8.1",
+        "reviews": "572K",
+        "genre": [
+            "Drama",
+            "Sport"
+        ]
+    },
+    {
+        "title": "Platoon",
+        "releaseYear": "1986",
+        "ageCertificate": "15",
+        "movieLength": "2h",
+        "rating": "8.1",
+        "reviews": "413K",
+        "genre": [
+            "Drama",
+            "War"
+        ]
+    },
+    {
+        "title": "Everything Everywhere All at Once",
+        "releaseYear": "2022",
+        "ageCertificate": "15",
+        "movieLength": "2h 19m",
+        "rating": "8.1",
+        "reviews": "222K",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "title": "Pather Panchali",
+        "releaseYear": "1955",
+        "ageCertificate": "U",
+        "movieLength": "2h 5m",
+        "rating": "8.3",
+        "reviews": "33K",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "title": "Stand by Me",
+        "releaseYear": "1986",
+        "ageCertificate": "15",
+        "movieLength": "1h 29m",
+        "rating": "8.1",
+        "reviews": "402K",
+        "genre": [
+            "Adventure",
+            "Drama"
+        ]
+    },
+    {
+        "title": "The Terminator",
+        "releaseYear": "1984",
+        "ageCertificate": "18",
+        "movieLength": "1h 47m",
+        "rating": "8.1",
+        "reviews": "860K",
+        "genre": [
+            "Action",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "title": "Spotlight",
+        "releaseYear": "2015",
+        "ageCertificate": "15",
+        "movieLength": "2h 9m",
+        "rating": "8.1",
+        "reviews": "468K",
+        "genre": [
+            "Biography",
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "title": "Rush",
+        "releaseYear": "2013",
+        "ageCertificate": "15",
+        "movieLength": "2h 3m",
+        "rating": "8.1",
+        "reviews": "478K",
+        "genre": [
+            "Action",
+            "Biography",
+            "Drama"
+        ]
+    },
+    {
+        "title": "Logan",
+        "releaseYear": "2017",
+        "ageCertificate": "15",
+        "movieLength": "2h 17m",
+        "rating": "8.1",
+        "reviews": "755K",
+        "genre": [
+            "Action",
+            "Drama",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "title": "Ratatouille",
+        "releaseYear": "2007",
+        "ageCertificate": "U",
+        "movieLength": "1h 51m",
+        "rating": "8.1",
+        "reviews": "729K",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "title": "Network",
+        "releaseYear": "1976",
+        "ageCertificate": "AA",
+        "movieLength": "2h 1m",
+        "rating": "8.1",
+        "reviews": "160K",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "title": "Into the Wild",
+        "releaseYear": "2007",
+        "ageCertificate": "15",
+        "movieLength": "2h 28m",
+        "rating": "8.1",
+        "reviews": "621K",
+        "genre": [
+            "Adventure",
+            "Biography",
+            "Drama"
+        ]
+    },
+    {
+        "title": "The Wizard of Oz",
+        "releaseYear": "1939",
+        "ageCertificate": "A",
+        "movieLength": "1h 42m",
+        "rating": "8.1",
+        "reviews": "398K",
+        "genre": [
+            "Adventure",
+            "Family",
+            "Fantasy"
+        ]
+    },
+    {
+        "title": "Before Sunset",
+        "releaseYear": "2004",
+        "ageCertificate": "15",
+        "movieLength": "1h 20m",
+        "rating": "8.1",
+        "reviews": "263K",
+        "genre": [
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "title": "Groundhog Day",
+        "releaseYear": "1993",
+        "ageCertificate": "PG",
+        "movieLength": "1h 41m",
+        "rating": "8.1",
+        "reviews": "628K",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Fantasy"
+        ]
+    },
+    {
+        "title": "The Exorcist",
+        "releaseYear": "1973",
+        "ageCertificate": "X",
+        "movieLength": "2h 2m",
+        "rating": "8.1",
+        "reviews": "404K",
+        "genre": [
+            "Horror"
+        ]
+    },
+    {
+        "title": "The Best Years of Our Lives",
+        "releaseYear": "1946",
+        "ageCertificate": "U",
+        "movieLength": "2h 50m",
+        "rating": "8.1",
+        "reviews": "65K",
+        "genre": [
+            "Drama",
+            "Romance",
+            "War"
+        ]
+    },
+    {
+        "title": "To Be or Not to Be",
+        "releaseYear": "1942",
+        "ageCertificate": "U",
+        "movieLength": "1h 39m",
+        "rating": "8.2",
+        "reviews": "37K",
+        "genre": [
+            "Comedy",
+            "Romance",
+            "War"
+        ]
+    },
+    {
+        "title": "The Incredibles",
+        "releaseYear": "2004",
+        "ageCertificate": "U",
+        "movieLength": "1h 55m",
+        "rating": "8.0",
+        "reviews": "731K",
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ]
+    },
+    {
+        "title": "Jai Bhim",
+        "releaseYear": "2021",
+        "ageCertificate": "All",
+        "movieLength": "2h 44m",
+        "rating": "8.9",
+        "reviews": "199K",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ]
+    },
+    {
+        "title": "The Battle of Algiers",
+        "releaseYear": "1966",
+        "ageCertificate": "X",
+        "movieLength": "2h 1m",
+        "rating": "8.1",
+        "reviews": "60K",
+        "genre": [
+            "Drama",
+            "War"
+        ]
+    },
+    {
+        "title": "Hachi: A Dog's Tale",
+        "releaseYear": "2009",
+        "ageCertificate": "U",
+        "movieLength": "1h 33m",
+        "rating": "8.1",
+        "reviews": "284K",
+        "genre": [
+            "Biography",
+            "Drama",
+            "Family"
+        ]
+    },
+    {
+        "title": "The Grapes of Wrath",
+        "releaseYear": "1940",
+        "ageCertificate": "A",
+        "movieLength": "2h 9m",
+        "rating": "8.1",
+        "reviews": "93K",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "title": "Rebecca",
+        "releaseYear": "1940",
+        "ageCertificate": "A",
+        "movieLength": "2h 10m",
+        "rating": "8.1",
+        "reviews": "137K",
+        "genre": [
+            "Drama",
+            "Film-Noir",
+            "Mystery"
+        ]
+    },
+    {
+        "title": "Amores perros",
+        "releaseYear": "2000",
+        "ageCertificate": "18",
+        "movieLength": "2h 34m",
+        "rating": "8.1",
+        "reviews": "240K",
+        "genre": [
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "title": "My Father and My Son",
+        "releaseYear": "2005",
+        "ageCertificate": "PG",
+        "movieLength": "1h 52m",
+        "rating": "8.2",
+        "reviews": "87K",
+        "genre": [
+            "Drama",
+            "Family"
+        ]
+    },
+    {
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "releaseYear": "2003",
+        "ageCertificate": "12A",
+        "movieLength": "2h 23m",
+        "rating": "8.1",
+        "reviews": "1.1M",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ]
+    },
+    {
+        "title": "La Haine",
+        "releaseYear": "1995",
+        "ageCertificate": "15",
+        "movieLength": "1h 38m",
+        "rating": "8.1",
+        "reviews": "173K",
+        "genre": [
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "title": "Cool Hand Luke",
+        "releaseYear": "1967",
+        "ageCertificate": "A",
+        "movieLength": "2h 7m",
+        "rating": "8.1",
+        "reviews": "177K",
+        "genre": [
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "title": "The 400 Blows",
+        "releaseYear": "1959",
+        "ageCertificate": "A",
+        "movieLength": "1h 39m",
+        "rating": "8.1",
+        "reviews": "118K",
+        "genre": [
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "title": "Persona",
+        "releaseYear": "1966",
+        "ageCertificate": "X",
+        "movieLength": "1h 25m",
+        "rating": "8.1",
+        "reviews": "119K",
+        "genre": [
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "title": "It Happened One Night",
+        "releaseYear": "1934",
+        "ageCertificate": "A",
+        "movieLength": "1h 45m",
+        "rating": "8.1",
+        "reviews": "104K",
+        "genre": [
+            "Comedy",
+            "Romance"
+        ]
+    },
+    {
+        "title": "The Handmaiden",
+        "releaseYear": "2016",
+        "ageCertificate": "18",
+        "movieLength": "2h 25m",
+        "rating": "8.1",
+        "reviews": "146K",
+        "genre": [
+            "Drama",
+            "Romance",
+            "Thriller"
+        ]
+    },
+    {
+        "title": "Life of Brian",
+        "releaseYear": "1979",
+        "ageCertificate": "AA",
+        "movieLength": "1h 34m",
+        "rating": "8.0",
+        "reviews": "399K",
+        "genre": [
+            "Comedy"
+        ]
+    },
+    {
+        "title": "The Sound of Music",
+        "releaseYear": "1965",
+        "ageCertificate": "U",
+        "movieLength": "2h 52m",
+        "rating": "8.1",
+        "reviews": "234K",
+        "genre": [
+            "Biography",
+            "Drama",
+            "Family"
+        ]
+    },
+    {
+        "title": "Dersu Uzala",
+        "releaseYear": "1975",
+        "ageCertificate": "U",
+        "movieLength": "2h 22m",
+        "rating": "8.2",
+        "reviews": "30K",
+        "genre": [
+            "Adventure",
+            "Biography",
+            "Drama"
+        ]
+    },
+    {
+        "title": "The Help",
+        "releaseYear": "2011",
+        "ageCertificate": "12A",
+        "movieLength": "2h 26m",
+        "rating": "8.1",
+        "reviews": "458K",
+        "genre": [
+            "Drama"
+        ]
+    },
+    {
+        "title": "Gandhi",
+        "releaseYear": "1982",
+        "ageCertificate": "A",
+        "movieLength": "3h 11m",
+        "rating": "8.1",
+        "reviews": "232K",
+        "genre": [
+            "Biography",
+            "Drama"
+        ]
+    },
+    {
+        "title": "Aladdin",
+        "releaseYear": "1992",
+        "ageCertificate": "U",
+        "movieLength": "1h 30m",
+        "rating": "8.0",
+        "reviews": "417K",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "title": "The Iron Giant",
+        "releaseYear": "1999",
+        "ageCertificate": "U",
+        "movieLength": "1h 26m",
+        "rating": "8.1",
+        "reviews": "196K",
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ]
+    }
+]
