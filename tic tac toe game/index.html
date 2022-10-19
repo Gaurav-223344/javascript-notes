@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Tic Tac Toe</title>
+</head>
+<body>
+    <div class="container">
+        <div class="game">
+            <div class="gameTitle centerAlign">
+                <h1> Tic Tac Toe </h1>
+            </div>
+            <div class="playerInfo centerAlign">
+                <div class="player1 myTurn">
+                    <h5>Player 1</h5>
+                    <h2>X</h2>
+                </div>
+
+                <div class="player2">
+                    <h5>Player 2</h5>
+                    <h2>O</h2>
+                </div>
+            </div>
+            <div class="grid centerAlign">
+                <table id="gridForGame">
+                    <tr class="row1">
+                        <td id="row1col1" class="instance column1" isClicked="false"></td>
+                        <td id="row1col2" class="instance column2" isClicked="false"></td>
+                        <td id="row1col3" class="instance column3" isClicked="false"></td>
+                    </tr>
+
+                    <tr class="row2">
+                        <td id="row2col1" class="instance column1" isClicked="false"></td>
+                        <td id="row2col2" class="instance column2" isClicked="false"></td>
+                        <td id="row2col3" class="instance column3" isClicked="false"></td>
+                    </tr>
+
+                    <tr class="row3">
+                        <td id="row3col1" class="instance column1" isClicked="false"></td>
+                        <td id="row3col2" class="instance column2" isClicked="false"></td>
+                        <td id="row3col3" class="instance column3" isClicked="false"></td>
+                    </tr>
+                    
+                </table>
+            </div>
+
+            <div class="resultStatement centerAlign">
+
+            </div>
+
+            <div class="playAgain centerAlign">
+                <button class="refresh hidden" onclick="refreshButton()">Play Again</button>
+            </div>
+        </div>
+    </div>
+</body>
+<script src="js/jquery-3.6.1.js"></script>
+<script src="js/index.js"></script>
+</html>
